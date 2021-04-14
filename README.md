@@ -59,4 +59,6 @@ Code untuk menambahkan "Style pada Form"
 ![Gambar 18](Screenshot/ss13.jpg)
 
 Tampilan di Browser
-![Gambar 19](Screenshot/ss14.jgp)
+![Gambar 19](Screenshot/ss14.jpg)
+
+
