@@ -7,14 +7,13 @@
 ### Menjawab Pertanyaan Tugas Praktik 3
 #### 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 Code untuk membuat tampilan dropdown menu dan listbox dengan multiple selection
-![Gambar 0](Screenshot/ss21.png)
-![Gambar 1](Screenshot/ss22.png)
-![Gambar 2](Screenshot/ss23.png)
-![Gambar 3](Screenshot/ss24.png)
-![Gambar 4](Screenshot/ss20.png)
+![Gambar 1](Screenshot/ss21.png)
+![Gambar 2](Screenshot/ss22.png)
+![Gambar 3](Screenshot/ss23.png)
+![Gambar 4](Screenshot/ss24.png)
 
 Tampilan di Browser
-![Gambar 5](Screenshot/ss19.jpg)
+![Gambar 5](Screenshot/ss20.jpg)
 
 ### Praktik Membuat Tabel dan Form HTML
 #### File Lab3Web.html
