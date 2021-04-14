@@ -5,7 +5,7 @@
 ##### NIM  : 311910673
 
 ### Menjawab Pertanyaan Tugas Praktik 3
-##### 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+#### 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 Code untuk membuat tampilan dropdown menu dan listbox dengan multiple selection
 ![Gambar 1](Screenshot/ss15.jpg)
 ![Gambar 2](Screenshot/ss16.jpg)
@@ -16,7 +16,7 @@ Tampilan di Browser
 ![Gambar 5](Screenshot/ss19.jpg)
 
 ### Praktik Membuat Tabel dan Form HTML
-##### File Lab3Web.html
+#### File Lab3Web.html
 Code untuk membuat "Ordered List"
 ![Gambar 6](Screenshot/ss1.jpg)
 
@@ -35,7 +35,7 @@ Code Membuat Description List
 Tampilan di Browser
 ![Gambar 11](Screenshot/ss6.jpg)
 
-##### File lab3_tabel.html
+#### File lab3_tabel.html
 Code untuk membuat "Tabel"
 ![Gambar 12](Screenshot/ss7.jpg)
 
@@ -48,7 +48,7 @@ Code untuk menggabungkan "Sel Data"
 Tampilan di Browser
 ![Gambar 15](Screenshot/ss10.jpg)
 
-##### File lab3_form.html
+#### File lab3_form.html
 Code untuk membuat "Form"
 ![Gambar 16](Screenshot/ss11.jpg)
 
