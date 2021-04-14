@@ -13,7 +13,7 @@ Code untuk membuat tampilan dropdown menu dan listbox dengan multiple selection
 ![Gambar 4](Screenshot/ss24.png)
 
 Tampilan di Browser
-![Gambar 5](Screenshot/ss20.jpg)
+![Gambar 5](Screenshot/ss20.png)
 
 ### Praktik Membuat Tabel dan Form HTML
 #### File Lab3Web.html
